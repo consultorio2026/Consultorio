@@ -2,7 +2,9 @@
   "name": "Mi Consultorio",
   "short_name": "Consultorio",
   "start_url": "/Consultorio/consultorio.html",
+  "scope": "/Consultorio/",
   "display": "standalone",
   "background_color": "#FAF6F0",
-  "theme_color": "#3D5A3E"
+  "theme_color": "#3D5A3E",
+  "orientation": "portrait"
 }
